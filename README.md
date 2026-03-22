@@ -1,19 +1,47 @@
-# Thabo Seshoka Calculator Website
+🔍 Thabo Search Engine
 
-This is a simple web-based calculator built with **HTML, CSS, and JavaScript**.  
+A modern, lightweight web-based search engine built using HTML, CSS, and JavaScript. This project provides a clean user interface and allows users to search the internet directly داخل the app.
 
-## Features
-- Display your name at the top
-- Basic calculator operations: addition, subtraction, multiplication, division
-- Decimal numbers support
-- Clear button to reset the display
-- Interactive buttons with hover effects
+🚀 Features
 
-## How to Use
-1. Open the `index.html` file in a web browser.
-2. Click the buttons to perform calculations.
-3. Use the "Clear" button to reset the calculator.
+- 🔎 Real-time internet search (powered via Bing)
+- ⌨️ Press Enter to search
+- 🌙 Dark / Light mode toggle
+- ⏳ Loading indicator for better UX
+- 📱 Responsive design (works on mobile & desktop)
+- 🎨 Clean and modern UI
 
-## Live Demo
-Once published on GitHub Pages, your website will be available at:  
-`https://Seshoka Thabo.github.io/calculator_website/`
+💻 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+📸 How It Works
+
+Users enter a search query into the input field, and results are displayed inside the app using an embedded search frame.
+
+⚠️ Note
+
+Some websites may block loading inside the app due to security policies (iframe restrictions).
+
+📦 Installation
+
+1. Download or clone this repository
+2. Open "index.html" in your browser
+3. Start searching 🔍
+
+🌟 Future Improvements
+
+- 🤖 AI-powered answers
+- 🔎 Search suggestions (autocomplete)
+- 🖼️ Image and video search
+- 🌐 Custom search API integration
+
+👨‍💻 Author
+
+Created by Thabo
+
+---
+
+⭐ If you like this project, consider giving it a star!
